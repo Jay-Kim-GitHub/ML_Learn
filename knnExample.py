@@ -1,5 +1,5 @@
 #KNN example
-
+#Example to show how Knn works
 
 from numpy import *
 import operator
